@@ -766,8 +766,8 @@ ul {
 }
 
 
-/* Estilos Escritorio (1024px o mas) *********************************************************************************/
-@media screen and (min-width: 1024px) {
+/* Estilos Escritorio (1920px o mas) *********************************************************************************/
+@media screen and (min-width: 1920px) {
 
     /* Page 1 Escritorio*/
     .page1 {
@@ -782,7 +782,7 @@ ul {
     }
 
     .banner_logo img {
-        width: 150px;
+        width: 90px;
     }
 
     .banner_title h1 {
@@ -903,7 +903,7 @@ ul {
     }
 
     .header_logo {
-        width: 35px;
+        width: 30px;
     }
 
     .header_a {
